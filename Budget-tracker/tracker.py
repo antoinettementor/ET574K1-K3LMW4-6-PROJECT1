@@ -1,4 +1,4 @@
-Terry Cajuste
+#Terry Cajuste
 # tracker.py
 import data  # connects to data.py
 
@@ -43,3 +43,4 @@ def summary_report():
     print(f"Average Expense: ${average:.2f}")
     print(f"Most Frequent Category: {most_frequent}")
     print("-" * 40)
+
