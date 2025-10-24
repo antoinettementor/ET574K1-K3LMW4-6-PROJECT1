@@ -28,7 +28,7 @@ def view_all_expenses():
 
 def main_menu():
     while True:
-        print("=== Expense Tracker Menu ===")
+        print("=== Budget Tracker Menu ===")
         print("1. Add Expense")
         print("2. View Summary")
         print("3. View All Expenses")
@@ -50,3 +50,4 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
